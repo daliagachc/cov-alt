@@ -67,12 +67,10 @@ información demográfica obtenidad de wolfram alpha
 !jupyter-nbconvert --to markdown README.ipynb
 ```
 
-    [NbConvertApp] Converting notebook README.ipynb to markdown
-    [NbConvertApp] Support files will be in README_files/
-    [NbConvertApp] Making directory README_files
-    [NbConvertApp] Making directory README_files
-    [NbConvertApp] Writing 2360 bytes to README.md
 
+```python
+!echo 'gsh'; git add .; git commit -m'from mac'; git push
+```
 
 
 ```python
