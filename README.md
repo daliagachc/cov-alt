@@ -108,7 +108,7 @@ display.Image("reg_alt_altColombia.png")
 
 ## Países andinos "normalizados"
 
-Finalemente si a la razón de normalidad le sustraemos el promedio de cada país obtenemos un aproximado que toma en cuenta los diferencias de cada país y se enfoca en la pendiente como función de la altura. El resultado es $m=-0.02(-0.06,0.01)$. Esto nos indica que por cada kilometro que se sube en altura, la razón de exceso de mortandad reduce un aprox. de 2%. La variación es mínima y además dentro del rango acotado se encuentran valores positivos y negativos 
+Finalemente si a la razón de mortandad le sustraemos el promedio de cada país obtenemos un aproximado que toma en cuenta los diferencias de cada país y se enfoca en la pendiente como función de la altura. El resultado es $m=-0.02(-0.06,0.01)$. Esto nos indica que por cada kilometro que se sube en altura, la razón de exceso de mortandad reduce un aprox. de 2%. La variación es mínima y además dentro del rango acotado se encuentran valores positivos y negativos 
 
 
 ```python
@@ -154,7 +154,7 @@ información demográfica obtenidad de wolfram alpha
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
-    [NbConvertApp] Writing 4217 bytes to README.md
+    [NbConvertApp] Writing 5297 bytes to README.md
 
 
 
@@ -163,35 +163,28 @@ información demográfica obtenidad de wolfram alpha
 ```
 
     gsh
-    [master 59ce072] from mac
-     23 files changed, 1613 insertions(+), 8 deletions(-)
-     create mode 100644 README_files/README_10_0.png
-     create mode 100644 README_files/README_11_0.png
-     create mode 100644 README_files/README_12_0.png
-     create mode 100644 README_files/README_13_0.png
-     create mode 100644 README_files/README_16_0.png
-     create mode 100644 reg_alt_altBolivia.pdf
-     create mode 100644 reg_alt_altBolivia.png
-     create mode 100644 reg_alt_altColombia.pdf
-     create mode 100644 reg_alt_altColombia.png
-     create mode 100644 reg_alt_altEcuador.pdf
-     create mode 100644 reg_alt_altEcuador.png
-     create mode 100644 reg_alt_altPeru.pdf
-     create mode 100644 reg_alt_altPeru.png
-     create mode 100644 reg_alt_alt_corr.pdf
-     create mode 100644 reg_alt_alt_corr.png
-     create mode 100644 region_alt-Copy1.ipynb
-     create mode 100644 region_alt_corr_country.ipynb
-    Enumerating objects: 29, done.
-    Counting objects: 100% (29/29), done.
+    [master c6dd02e] from mac
+     2 files changed, 68 insertions(+), 24 deletions(-)
+    Enumerating objects: 7, done.
+    Counting objects: 100% (7/7), done.
     Delta compression using up to 8 threads
-    Compressing objects: 100% (21/21), done.
-    Writing objects: 100% (21/21), 1.93 MiB | 1.42 MiB/s, done.
-    Total 21 (delta 9), reused 0 (delta 0), pack-reused 0
-    remote: Resolving deltas: 100% (9/9), completed with 5 local objects.[K
+    Compressing objects: 100% (4/4), done.
+    Writing objects: 100% (4/4), 1.18 KiB | 63.00 KiB/s, done.
+    Total 4 (delta 3), reused 0 (delta 0), pack-reused 0
+    remote: Resolving deltas: 100% (3/3), completed with 3 local objects.[K
     To https://github.com/daliagachc/cov-alt.git
-       006b149..59ce072  master -> master
+       59ce072..c6dd02e  master -> master
 
+
+
+```python
+
+```
+
+
+```python
+
+```
 
 
 ```python
