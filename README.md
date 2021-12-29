@@ -154,7 +154,7 @@ información demográfica obtenidad de wolfram alpha
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
-    [NbConvertApp] Writing 5297 bytes to README.md
+    [NbConvertApp] Writing 4493 bytes to README.md
 
 
 
@@ -163,17 +163,17 @@ información demográfica obtenidad de wolfram alpha
 ```
 
     gsh
-    [master c6dd02e] from mac
-     2 files changed, 68 insertions(+), 24 deletions(-)
+    [master 28c828b] from mac
+     2 files changed, 52 insertions(+), 60 deletions(-)
     Enumerating objects: 7, done.
     Counting objects: 100% (7/7), done.
     Delta compression using up to 8 threads
     Compressing objects: 100% (4/4), done.
-    Writing objects: 100% (4/4), 1.18 KiB | 63.00 KiB/s, done.
+    Writing objects: 100% (4/4), 981 bytes | 981.00 KiB/s, done.
     Total 4 (delta 3), reused 0 (delta 0), pack-reused 0
     remote: Resolving deltas: 100% (3/3), completed with 3 local objects.[K
     To https://github.com/daliagachc/cov-alt.git
-       59ce072..c6dd02e  master -> master
+       c6dd02e..28c828b  master -> master
 
 
 
