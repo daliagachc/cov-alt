@@ -1,0 +1,172 @@
+,country_name,adm1_name,adm1_isocode
+0,Bolivia,Beni,BO-B
+33,Bolivia,Chuquisaca,BO-H
+66,Bolivia,Cochabamba,BO-C
+99,Bolivia,La Paz,BO-L
+132,Bolivia,Oruro,BO-O
+165,Bolivia,Pando,BO-N
+198,Bolivia,Potosi,BO-P
+231,Bolivia,Santa Cruz,BO-S
+264,Bolivia,Tarija,BO-T
+297,Brazil,Acre,BR-AC
+1750,Brazil,Alagoas,BR-AL
+3206,Brazil,Amapa,BR-AP
+4653,Brazil,Amazonas,BR-AM
+6107,Brazil,Bahia,BR-BA
+7563,Brazil,Ceara,BR-CE
+9018,Brazil,Espirito Santo,BR-ES
+10473,Brazil,Federal District,BR-DF
+11928,Brazil,Goias,BR-GO
+13384,Brazil,Maranhao,BR-MA
+14838,Brazil,Mato Grosso,BR-MT
+16291,Brazil,Mato Grosso do Sul,BR-MS
+17744,Brazil,Minas Gerais,BR-MG
+19200,Brazil,Para,BR-PA
+20653,Brazil,Paraiba,BR-PB
+22109,Brazil,Parana,BR-PR
+23563,Brazil,Pernambuco,BR-PE
+25019,Brazil,Piaui,BR-PI
+26468,Brazil,Rio Grande do Norte,BR-RN
+27919,Brazil,Rio Grande do Sul,BR-RS
+29375,Brazil,Rio de Janeiro,BR-RJ
+30831,Brazil,Rondonia,BR-RO
+32283,Brazil,Roraima,BR-RR
+33728,Brazil,Santa Catarina,BR-SC
+35182,Brazil,Sao Paulo,BR-SP
+36636,Brazil,Sergipe,BR-SE
+38088,Brazil,Tocantins,BR-TO
+39540,Chile,Aisen,CL-AI
+43916,Chile,Antofagasta,CL-AN
+48292,Chile,Araucania,CL-AR
+52668,Chile,Arica y Parinacota,CL-AP
+57044,Chile,Atacama,CL-AT
+61420,Chile,Biobio,CL-BI
+65796,Chile,Coquimbo,CL-CO
+70172,Chile,Los Lagos,CL-LL
+74548,Chile,Los Rios,CL-LR
+78924,Chile,Magallanes,CL-MA
+83300,Chile,Maule,CL-ML
+87676,Chile,O'Higgins,CL-LI
+92052,Chile,Santiago Metropolitan,CL-RM
+96428,Chile,Tarapaca,CL-TA
+100804,Chile,Valparaiso,CL-VS
+105180,Chile,Ñuble,CL-NB
+109556,Colombia,Amazonas,CO-AMA
+109905,Colombia,Antioquia,CO-ANT
+110254,Colombia,Arauca,CO-ARA
+110603,Colombia,Atlantico,CO-ATL
+110952,Colombia,Bogota D.C.,CO-DC
+111301,Colombia,Bolivar,CO-BOL
+111650,Colombia,Boyaca,CO-BOY
+111999,Colombia,Caldas,CO-CAL
+112348,Colombia,Caqueta,CO-CAQ
+112697,Colombia,Casanare,CO-CAS
+113046,Colombia,Cauca,CO-CAU
+113395,Colombia,Cesar,CO-CES
+113744,Colombia,Choco,CO-CHO
+114093,Colombia,Cordoba,CO-COR
+114442,Colombia,Cundinamarca,CO-CUN
+114791,Colombia,Guainia,CO-GUA
+115139,Colombia,Guaviare,CO-GUV
+115488,Colombia,Huila,CO-HUI
+115837,Colombia,La Guajira,CO-LAG
+116186,Colombia,Magdalena,CO-MAG
+116535,Colombia,Meta,CO-MET
+116884,Colombia,Narino,CO-NAR
+117233,Colombia,Norte de Santander,CO-NSA
+117582,Colombia,Putumayo,CO-PUT
+117931,Colombia,Quindio,CO-QUI
+118280,Colombia,Risaralda,CO-RIS
+118629,Colombia,San Andres y Providencia,CO-SAP
+118978,Colombia,Santander,CO-SAN
+119327,Colombia,Sucre,CO-SUC
+119676,Colombia,Tolima,CO-TOL
+120025,Colombia,Valle del Cauca,CO-VAC
+120374,Colombia,Vaupes,CO-VAU
+120721,Colombia,Vichada,CO-VID
+121070,Ecuador,Azuay,EC-A
+123606,Ecuador,Bolivar,EC-B
+126141,Ecuador,Canar,EC-F
+128673,Ecuador,Carchi,EC-C
+131202,Ecuador,Chimborazo,EC-H
+133739,Ecuador,Cotopaxi,EC-X
+136274,Ecuador,El Oro,EC-O
+138810,Ecuador,Esmeraldas,EC-E
+141344,Ecuador,Galapagos,EC-W
+143859,Ecuador,Guayas,EC-G
+146397,Ecuador,Imbabura,EC-I
+148933,Ecuador,Loja,EC-L
+151469,Ecuador,Los Rios,EC-R
+154005,Ecuador,Manabi,EC-M
+156541,Ecuador,Morona-Santiago,EC-S
+159069,Ecuador,Napo,EC-N
+161600,Ecuador,Orellana,EC-D
+164127,Ecuador,Pastaza,EC-Y
+166648,Ecuador,Pichincha,EC-P
+169186,Ecuador,Santa Elena,EC-SE
+171719,Ecuador,Santo Domingo de los Tsachilas,EC-SD
+174255,Ecuador,Sucumbios,EC-U
+176789,Ecuador,Tungurahua,EC-T
+179325,Ecuador,Zamora-Chinchipe,EC-Z
+181846,Peru,Amazonas,PE-AMA
+183497,Peru,Ancash,PE-ANC
+185319,Peru,Apurimac,PE-APU
+187111,Peru,Arequipa,PE-ARE
+188933,Peru,Ayacucho,PE-AYA
+190724,Peru,Cajamarca,PE-CAJ
+192546,Peru,Callao,PE-CAL
+194368,Peru,Cusco,PE-CUS
+196190,Peru,Huancavelica,PE-HUV
+198004,Peru,Huanuco,PE-HUC
+199826,Peru,Ica,PE-ICA
+201648,Peru,Junin,PE-JUN
+203470,Peru,La Libertad,PE-LAL
+205292,Peru,Lambayeque,PE-LAM
+207020,Peru,Lima,PE-LIM
+208842,Peru,Loreto,PE-LOR
+210660,Peru,Madre de Dios,PE-MDD
+212176,Peru,Moquegua,PE-MOQ
+213839,Peru,Pasco,PE-PAS
+215405,Peru,Piura,PE-PIU
+217227,Peru,Puno,PE-PUN
+219049,Peru,San Martin,PE-SAM
+220866,Peru,Tacna,PE-TAC
+222635,Peru,Tumbes,PE-TUM
+224329,Peru,Ucayali,PE-UCA
+226130,Paraguay,Alto Paraguay,PY-16
+226213,Paraguay,Alto Parana,PY-10
+226297,Paraguay,Amambay,PY-13
+226381,Paraguay,Asuncion,PY-ASU
+226465,Paraguay,Boqueron,PY-19
+226549,Paraguay,Caaguazu,PY-5
+226633,Paraguay,Caazapa,PY-6
+226717,Paraguay,Canindeyu,PY-14
+226801,Paraguay,Central,PY-11
+226885,Paraguay,Concepcion,PY-1
+226969,Paraguay,Cordillera,PY-3
+227053,Paraguay,Guaira,PY-4
+227137,Paraguay,Itapua,PY-7
+227221,Paraguay,Misiones,PY-8
+227305,Paraguay,Neembucu,PY-12
+227388,Paraguay,Paraguari,PY-9
+227472,Paraguay,Presidente Hayes,PY-15
+227555,Paraguay,San Pedro,PY-2
+227639,Uruguay,Artigas,UY-AR
+227708,Uruguay,Canelones,UY-CA
+227777,Uruguay,Cerro Largo,UY-CL
+227846,Uruguay,Colonia,UY-CO
+227915,Uruguay,Durazno,UY-DU
+227984,Uruguay,Flores,UY-FS
+228053,Uruguay,Florida,UY-FD
+228122,Uruguay,Lavalleja,UY-LA
+228191,Uruguay,Maldonado,UY-MA
+228260,Uruguay,Montevideo,UY-MO
+228329,Uruguay,Paysandu,UY-PA
+228398,Uruguay,Rio Negro,UY-RN
+228467,Uruguay,Rivera,UY-RV
+228536,Uruguay,Rocha,UY-RO
+228605,Uruguay,Salto,UY-SA
+228674,Uruguay,San Jose,UY-SJ
+228743,Uruguay,Soriano,UY-SO
+228812,Uruguay,Tacuarembo,UY-TA
+228881,Uruguay,Treinta y Tres,UY-TT
