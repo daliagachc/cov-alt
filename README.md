@@ -44,7 +44,7 @@ display.Image("reg_alt.png")
 
 
 (version [pdf]('reg_alt.pdf'))  
-Similar al anterior pero con Paraguay, Brasil, Chile y Uruguay incluídos.
+Similar al anterior pero con Paraguay, Brasil, Chile y Uruguay incluídos. Probablemente el resultado de la regresión es un caso de "falacia ecológica" 
 
 ## Países andinos individuales
 
@@ -108,7 +108,7 @@ display.Image("reg_alt_altColombia.png")
 
 ## Países andinos "normalizados"
 
-Finalemente si a la razón de mortandad le sustraemos el promedio de cada país obtenemos un aproximado que toma en cuenta los diferencias de cada país y se enfoca en la pendiente como función de la altura. El resultado es $m=-0.02(-0.06,0.01)$. Esto nos indica que por cada kilometro que se sube en altura, la razón de exceso de mortandad reduce un aprox. de 2%. La variación es mínima y además dentro del rango acotado se encuentran valores positivos y negativos 
+Si a la razón de mortandad le sustraemos el promedio de cada país obtenemos un aproximado que toma en cuenta los diferencias de cada país y se enfoca en la pendiente como función de la altura. El resultado es $m=-0.02(-0.06,0.01)$. Esto nos indica que por cada kilometro que se sube en altura, la razón de exceso de mortandad reduce un aprox. de 2%. La variación es mínima y además dentro del rango acotado se encuentran valores positivos y negativos 
 
 
 ```python
@@ -120,6 +120,24 @@ display.Image("reg_alt_alt_corr.png")
 
     
 ![png](README_files/README_16_0.png)
+    
+
+
+
+### normalizando la elevación
+
+Finalmente, con el objetivo de reducir la "falacica ecológica" también podemos sustrar el promedio de altura de cada país
+
+
+```python
+display.Image("reg_alt_alt_corr_corr.png")
+```
+
+
+
+
+    
+![png](README_files/README_19_0.png)
     
 
 
@@ -154,7 +172,7 @@ información demográfica obtenidad de wolfram alpha
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
-    [NbConvertApp] Writing 4495 bytes to README.md
+    [NbConvertApp] Writing 4211 bytes to README.md
 
 
 
@@ -163,12 +181,20 @@ información demográfica obtenidad de wolfram alpha
 ```
 
     gsh
-    [master 46e52d4] from mac
-     10 files changed, 12 insertions(+), 12 deletions(-)
-     rewrite reg_alt_altBolivia.png (98%)
-     rewrite reg_alt_altColombia.png (98%)
-     rewrite reg_alt_altEcuador.png (98%)
-     rewrite reg_alt_altPeru.png (98%)
+    [master a3d4626] from mac
+     5 files changed, 27 insertions(+), 37 deletions(-)
+     rewrite README_files/README_11_0.png (98%)
+     rewrite README_files/README_12_0.png (98%)
+     rewrite README_files/README_13_0.png (98%)
+    Enumerating objects: 9, done.
+    Counting objects: 100% (9/9), done.
+    Delta compression using up to 8 threads
+    Compressing objects: 100% (5/5), done.
+    Writing objects: 100% (5/5), 243.92 KiB | 6.42 MiB/s, done.
+    Total 5 (delta 4), reused 0 (delta 0), pack-reused 0
+    remote: Resolving deltas: 100% (4/4), completed with 4 local objects.[K
+    To https://github.com/daliagachc/cov-alt.git
+       46e52d4..a3d4626  master -> master
 
 
 
