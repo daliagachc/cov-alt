@@ -46,6 +46,84 @@ display.Image("reg_alt.png")
 (version [pdf]('reg_alt.pdf'))  
 Similar al anterior pero con Paraguay, Brasil, Chile y Uruguay incluídos.
 
+## Países andinos individuales
+
+Individualmente la pendiente de la regresión es negativa para los países andinos, sin embargo en el rango 0.025-.975 dan valores positivos y negativos para todos
+
+
+```python
+display.Image("reg_alt_altPeru.png")
+```
+
+
+
+
+    
+![png](README_files/README_10_0.png)
+    
+
+
+
+
+```python
+display.Image("reg_alt_altBolivia.png")
+```
+
+
+
+
+    
+![png](README_files/README_11_0.png)
+    
+
+
+
+
+```python
+display.Image("reg_alt_altEcuador.png")
+```
+
+
+
+
+    
+![png](README_files/README_12_0.png)
+    
+
+
+
+
+```python
+display.Image("reg_alt_altColombia.png")
+```
+
+
+
+
+    
+![png](README_files/README_13_0.png)
+    
+
+
+
+## Países andinos "normalizados"
+
+Finalemente si a la razón de normalidad le sustraemos el promedio de cada país obtenemos un aproximado que toma en cuenta los diferencias de cada país y se enfoca en la pendiente como función de la altura. El resultado es $m=-0.02(-0.06,0.01)$. Esto nos indica que por cada kilometro que se sube en altura, la razón de exceso de mortandad reduce un aprox. de 2%. La variación es mínima y además dentro del rango acotado se encuentran valores positivos y negativos 
+
+
+```python
+display.Image("reg_alt_alt_corr.png")
+```
+
+
+
+
+    
+![png](README_files/README_16_0.png)
+    
+
+
+
 ## Comentarios
 1. Desde el principios de 2020 los habitantes de Lima han casi triplicado sus probabilidades de morir.
 1. Uruguay es un caso excepcional en que las probabilidades han disminuido con la pandemia
@@ -67,10 +145,31 @@ información demográfica obtenidad de wolfram alpha
 !jupyter-nbconvert --to markdown README.ipynb
 ```
 
+    [NbConvertApp] Converting notebook README.ipynb to markdown
+    [NbConvertApp] Support files will be in README_files/
+    [NbConvertApp] Making directory README_files
+    [NbConvertApp] Making directory README_files
+    [NbConvertApp] Writing 2161 bytes to README.md
+
+
 
 ```python
 !echo 'gsh'; git add .; git commit -m'from mac'; git push
 ```
+
+    gsh
+    [master 006b149] from mac
+     2 files changed, 15 insertions(+), 19 deletions(-)
+    Enumerating objects: 7, done.
+    Counting objects: 100% (7/7), done.
+    Delta compression using up to 8 threads
+    Compressing objects: 100% (4/4), done.
+    Writing objects: 100% (4/4), 571 bytes | 571.00 KiB/s, done.
+    Total 4 (delta 3), reused 0 (delta 0), pack-reused 0
+    remote: Resolving deltas: 100% (3/3), completed with 3 local objects.[K
+    To https://github.com/daliagachc/cov-alt.git
+       040bf75..006b149  master -> master
+
 
 
 ```python
