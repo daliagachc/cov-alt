@@ -71,7 +71,7 @@ información demográfica obtenidad de wolfram alpha
     [NbConvertApp] Support files will be in README_files/
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
-    [NbConvertApp] Writing 2311 bytes to README.md
+    [NbConvertApp] Writing 2360 bytes to README.md
 
 
 
