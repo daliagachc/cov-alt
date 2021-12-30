@@ -172,7 +172,8 @@ información demográfica obtenidad de wolfram alpha
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
-    [NbConvertApp] Writing 4211 bytes to README.md
+    [NbConvertApp] Making directory README_files
+    [NbConvertApp] Writing 4970 bytes to README.md
 
 
 
@@ -181,20 +182,24 @@ información demográfica obtenidad de wolfram alpha
 ```
 
     gsh
-    [master a3d4626] from mac
-     5 files changed, 27 insertions(+), 37 deletions(-)
-     rewrite README_files/README_11_0.png (98%)
-     rewrite README_files/README_12_0.png (98%)
-     rewrite README_files/README_13_0.png (98%)
-    Enumerating objects: 9, done.
-    Counting objects: 100% (9/9), done.
+    [master f0440e1] from mac
+     11 files changed, 1488 insertions(+), 531 deletions(-)
+     rewrite README_files/README_16_0.png (76%)
+     create mode 100644 README_files/README_19_0.png
+     rewrite reg_alt_alt_corr.png (76%)
+     create mode 100644 reg_alt_alt_corr_corr.pdf
+     create mode 100644 reg_alt_alt_corr_corr.png
+     rewrite region_alt-Copy1.ipynb (90%)
+     create mode 100644 region_alt_corr_country-Copy1.ipynb
+    Enumerating objects: 20, done.
+    Counting objects: 100% (20/20), done.
     Delta compression using up to 8 threads
-    Compressing objects: 100% (5/5), done.
-    Writing objects: 100% (5/5), 243.92 KiB | 6.42 MiB/s, done.
-    Total 5 (delta 4), reused 0 (delta 0), pack-reused 0
-    remote: Resolving deltas: 100% (4/4), completed with 4 local objects.[K
+    Compressing objects: 100% (12/12), done.
+    Writing objects: 100% (12/12), 1.38 MiB | 765.00 KiB/s, done.
+    Total 12 (delta 6), reused 0 (delta 0), pack-reused 0
+    remote: Resolving deltas: 100% (6/6), completed with 6 local objects.[K
     To https://github.com/daliagachc/cov-alt.git
-       46e52d4..a3d4626  master -> master
+       a3d4626..f0440e1  master -> master
 
 
 
