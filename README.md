@@ -173,7 +173,7 @@ información demográfica obtenidad de wolfram alpha
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
-    [NbConvertApp] Writing 4970 bytes to README.md
+    [NbConvertApp] Writing 5230 bytes to README.md
 
 
 
@@ -182,24 +182,35 @@ información demográfica obtenidad de wolfram alpha
 ```
 
     gsh
-    [master f0440e1] from mac
-     11 files changed, 1488 insertions(+), 531 deletions(-)
-     rewrite README_files/README_16_0.png (76%)
-     create mode 100644 README_files/README_19_0.png
-     rewrite reg_alt_alt_corr.png (76%)
-     create mode 100644 reg_alt_alt_corr_corr.pdf
-     create mode 100644 reg_alt_alt_corr_corr.png
-     rewrite region_alt-Copy1.ipynb (90%)
-     create mode 100644 region_alt_corr_country-Copy1.ipynb
-    Enumerating objects: 20, done.
-    Counting objects: 100% (20/20), done.
+    [master 238f891] from mac
+     30 files changed, 1704 insertions(+), 1019 deletions(-)
+     rewrite README.ipynb (83%)
+     rewrite README_files/README_10_0.png (98%)
+     rewrite README_files/README_11_0.png (98%)
+     rewrite README_files/README_12_0.png (98%)
+     rewrite README_files/README_13_0.png (98%)
+     rewrite README_files/README_16_0.png (97%)
+     rewrite README_files/README_19_0.png (97%)
+     rewrite README_files/README_4_0.png (97%)
+     rewrite README_files/README_6_0.png (97%)
+     rewrite reg_alt.png (97%)
+     rewrite reg_alt_alt.png (97%)
+     rewrite reg_alt_altBolivia.png (98%)
+     rewrite reg_alt_altColombia.png (98%)
+     rewrite reg_alt_altEcuador.png (98%)
+     rewrite reg_alt_altPeru.png (98%)
+     rewrite reg_alt_alt_corr.png (97%)
+     rewrite reg_alt_alt_corr_corr.png (97%)
+     rewrite region_alt-Copy1.ipynb (76%)
+    Enumerating objects: 49, done.
+    Counting objects: 100% (49/49), done.
     Delta compression using up to 8 threads
-    Compressing objects: 100% (12/12), done.
-    Writing objects: 100% (12/12), 1.38 MiB | 765.00 KiB/s, done.
-    Total 12 (delta 6), reused 0 (delta 0), pack-reused 0
-    remote: Resolving deltas: 100% (6/6), completed with 6 local objects.[K
+    Compressing objects: 100% (25/25), done.
+    Writing objects: 100% (25/25), 2.71 MiB | 1.60 MiB/s, done.
+    Total 25 (delta 11), reused 0 (delta 0), pack-reused 0
+    remote: Resolving deltas: 100% (11/11), completed with 11 local objects.[K
     To https://github.com/daliagachc/cov-alt.git
-       a3d4626..f0440e1  master -> master
+       f0440e1..238f891  master -> master
 
 
 
