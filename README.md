@@ -148,6 +148,22 @@ display.Image("reg_alt_alt_corr_corr.png")
 1. La regresión para la segunda figura es "ingenua" en el sentido que no toma en cuenta que los países que han afrontado mejor la pandemia (e.g. Uruguay, Chile) tienen sus regiones a casi nivel del mar
 1. Por ende, si tomamos en cuenta solo países con regions altas y bajas (Perú, Bolivia, Ecuador, Colombia) tenemos una mejor idea (primera figura)
 
+# Chances de mortandad el 2021 comparadas a 2019 
+
+
+```python
+display.Image("scatter_pais.png")
+```
+
+
+
+
+    
+![png](README_files/README_22_0.png)
+    
+
+
+
 ## Fuentes
 datos de covid obtenidos del gran trabajo de:
   - https://github.com/pr0nstar
@@ -173,7 +189,7 @@ información demográfica obtenidad de wolfram alpha
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
     [NbConvertApp] Making directory README_files
-    [NbConvertApp] Writing 5230 bytes to README.md
+    [NbConvertApp] Writing 5663 bytes to README.md
 
 
 
@@ -182,36 +198,51 @@ información demográfica obtenidad de wolfram alpha
 ```
 
     gsh
-    [master 238f891] from mac
-     30 files changed, 1704 insertions(+), 1019 deletions(-)
-     rewrite README.ipynb (83%)
-     rewrite README_files/README_10_0.png (98%)
-     rewrite README_files/README_11_0.png (98%)
-     rewrite README_files/README_12_0.png (98%)
-     rewrite README_files/README_13_0.png (98%)
-     rewrite README_files/README_16_0.png (97%)
-     rewrite README_files/README_19_0.png (97%)
-     rewrite README_files/README_4_0.png (97%)
-     rewrite README_files/README_6_0.png (97%)
-     rewrite reg_alt.png (97%)
-     rewrite reg_alt_alt.png (97%)
-     rewrite reg_alt_altBolivia.png (98%)
-     rewrite reg_alt_altColombia.png (98%)
-     rewrite reg_alt_altEcuador.png (98%)
-     rewrite reg_alt_altPeru.png (98%)
-     rewrite reg_alt_alt_corr.png (97%)
-     rewrite reg_alt_alt_corr_corr.png (97%)
-     rewrite region_alt-Copy1.ipynb (76%)
-    Enumerating objects: 49, done.
-    Counting objects: 100% (49/49), done.
-    Delta compression using up to 8 threads
-    Compressing objects: 100% (25/25), done.
-    Writing objects: 100% (25/25), 2.71 MiB | 1.60 MiB/s, done.
-    Total 25 (delta 11), reused 0 (delta 0), pack-reused 0
-    remote: Resolving deltas: 100% (11/11), completed with 11 local objects.[K
-    To https://github.com/daliagachc/cov-alt.git
-       f0440e1..238f891  master -> master
+    fatal: unable to stat '.~region_alt-Copy1.ipynb': No such file or directory
+    On branch master
+    Your branch is up to date with 'origin/master'.
+    
+    Changes not staged for commit:
+      (use "git add <file>..." to update what will be committed)
+      (use "git restore <file>..." to discard changes in working directory)
+    	[31mmodified:   README.ipynb[m
+    	[31mmodified:   README.md[m
+    	[31mmodified:   reg_alt.pdf[m
+    	[31mmodified:   reg_alt.png[m
+    	[31mmodified:   reg_alt_alt.pdf[m
+    	[31mmodified:   reg_alt_alt.png[m
+    	[31mmodified:   reg_alt_altBolivia.pdf[m
+    	[31mmodified:   reg_alt_altBolivia.png[m
+    	[31mmodified:   reg_alt_altColombia.pdf[m
+    	[31mmodified:   reg_alt_altColombia.png[m
+    	[31mmodified:   reg_alt_altEcuador.pdf[m
+    	[31mmodified:   reg_alt_altEcuador.png[m
+    	[31mmodified:   reg_alt_altPeru.pdf[m
+    	[31mmodified:   reg_alt_altPeru.png[m
+    	[31mmodified:   reg_alt_alt_corr.pdf[m
+    	[31mmodified:   reg_alt_alt_corr.png[m
+    	[31mmodified:   reg_alt_alt_corr_corr.pdf[m
+    	[31mmodified:   reg_alt_alt_corr_corr.png[m
+    	[31mmodified:   region.ipynb[m
+    	[31mmodified:   region_alt-Copy1.ipynb[m
+    	[31mmodified:   region_alt.ipynb[m
+    	[31mmodified:   region_alt_corr_country-Copy1.ipynb[m
+    	[31mmodified:   region_alt_corr_country.ipynb[m
+    
+    Untracked files:
+      (use "git add <file>..." to include in what will be committed)
+    	[31mUntitled-Copy1.ipynb[m
+    	[31mUntitled.ipynb[m
+    	[31mdata/ortiz-prado_2021.xlsx[m
+    
+    no changes added to commit (use "git add" and/or "git commit -a")
+    Everything up-to-date
 
+
+
+```python
+
+```
 
 
 ```python
